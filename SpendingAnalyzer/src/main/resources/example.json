@@ -1,0 +1,102 @@
+[
+  {
+    "date": "2021/02/22 20:43",
+    "amount": 1000,
+    "description": "saving"
+  },
+  {
+    "date": "2021/02/23 19:48",
+    "amount": 1000,
+    "description": "saving"
+  },
+  {
+    "date": "2021/02/24 11:48",
+    "amount": -1000,
+    "description": "credit card"
+  },
+  {
+    "date": "2021/02/25 12:54",
+    "amount": -1,
+    "description": "testing"
+  },
+  {
+    "date": "2021/02/26 09:48",
+    "amount": 4000,
+    "description": "food"
+  },
+  {
+    "date": "2021/03/01 00:14",
+    "amount": 600,
+    "description": "food"
+  },
+  {
+    "date": "2021/03/01 12:17",
+    "amount": 36,
+    "description": "investment"
+  },
+  {
+    "date": "2021/03/01 12:17",
+    "amount": 36,
+    "description": "investment"
+  },
+  {
+    "date": "2021/03/01 12:17",
+    "amount": 179,
+    "description": "investment"
+  },
+  {
+    "date": "2021/03/05 18:32",
+    "amount": 1000,
+    "description": "food"
+  },
+  {
+    "date": "2021/03/13 01:41",
+    "amount": 3000,
+    "description": "investment"
+  },
+  {
+    "date": "2021/03/16 14:44",
+    "amount": -2786,
+    "description": "online shopping"
+  },
+  {
+    "date": "2021/03/17 16:46",
+    "amount": -1500,
+    "description": "online shopping"
+  },
+  {
+    "date": "2021/03/25 08:30",
+    "amount": 1000,
+    "description": "investment"
+  },
+  {
+    "date": "2021/03/26 10:21",
+    "amount": 7000,
+    "description": "investment"
+  },
+  {
+    "date": "2021/03/26 10:25",
+    "amount": 3000,
+    "description": "investment"
+  },
+  {
+    "date": "2021/03/31 18:15",
+    "amount": 325,
+    "description": "saving"
+  },
+  {
+    "date": "2021/04/06 14:43",
+    "amount": -5539,
+    "description": "online shopping"
+  },
+  {
+    "date": "2021/04/09 23:01",
+    "amount": 1000,
+    "description": "saving"
+  },
+  {
+    "date": "2021/04/09 23:29",
+    "amount": 2000,
+    "description": "saving"
+  }
+]

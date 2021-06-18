@@ -1,0 +1,13 @@
+.DS_Store
+
+# IntelliJ files
+*.iml
+*.iws
+*.ipr
+.idea/
+*.swp
+release.properties
+pom.xml.releaseBackup
+pom.xml.tag
+
+SpendingAnalyzer/target
